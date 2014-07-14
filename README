@@ -2,3 +2,6 @@ echo
 ====
 
 Echo: a C library for bunch longitudinal and transverse dynamics
+
+Dependencies:
+ - libyaml (http://pyyaml.org/wiki/LibYAML)
